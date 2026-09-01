@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0485-max-consecutive-ones) |
 | [1672-richest-customer-wealth](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
