@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2652-sum-multiples) |
+| [3875-construct-uniform-parity-array-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0485-max-consecutive-ones) |
 | [1672-richest-customer-wealth](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1672-richest-customer-wealth) |
+| [3875-construct-uniform-parity-array-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
