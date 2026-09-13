@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0169-majority-element) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0189-rotate-array) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
