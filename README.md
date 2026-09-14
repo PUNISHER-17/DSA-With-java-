@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2469-convert-the-temperature](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2469-convert-the-temperature) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0011-container-with-most-water) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
