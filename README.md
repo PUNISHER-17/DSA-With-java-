@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1207-unique-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2336-smallest-number-in-infinite-set](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2336-smallest-number-in-infinite-set) |
 ## String
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
 | ------- |
@@ -109,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
