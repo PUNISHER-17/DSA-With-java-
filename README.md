@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2652-sum-multiples) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0412-fizz-buzz) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3798-largest-even-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3798-largest-even-number) |
 ## Simulation
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
