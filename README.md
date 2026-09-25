@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0217-contains-duplicate) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2336-smallest-number-in-infinite-set](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2352-equal-row-and-column-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0412-fizz-buzz) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3798-largest-even-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3798-largest-even-number) |
 ## Simulation
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
