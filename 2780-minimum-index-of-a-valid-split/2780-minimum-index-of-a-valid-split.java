@@ -12,7 +12,7 @@ class Solution {
             mp2.put(num,mp2.getOrDefault(num,0)-1);
             int n1=i+1;
             int n2=n-i-1;
-            if(mp1.get(num)>n1/2 && mp2.get(num)>n2/2){
+            if(mp1.get(num)*2>n1 && mp2.get(num)*2>n2){
                 return i;
             }
         }
