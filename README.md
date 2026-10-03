@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3335-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3798-largest-even-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3798-largest-even-number) |
 ## Simulation
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3335-total-characters-in-string-after-transformations-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -172,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0648-replace-words) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3335-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
