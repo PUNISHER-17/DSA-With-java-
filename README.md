@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0016-3sum-closest) |
+| [0053-maximum-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0217-contains-duplicate) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0169-majority-element) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting
@@ -184,5 +186,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0053-maximum-subarray) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3335-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
