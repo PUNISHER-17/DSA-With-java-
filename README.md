@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1672-richest-customer-wealth) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -187,5 +188,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0053-maximum-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3335-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
