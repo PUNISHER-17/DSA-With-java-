@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0648-replace-words) |
 | [0781-rabbits-in-forest](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0846-hand-of-straights) |
+| [0918-maximum-sum-circular-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1207-unique-number-of-occurrences](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1512-number-of-good-pairs) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting
 |  |
@@ -190,6 +192,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3335-total-characters-in-string-after-transformations-i) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
