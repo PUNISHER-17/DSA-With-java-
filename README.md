@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0217-contains-duplicate) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
