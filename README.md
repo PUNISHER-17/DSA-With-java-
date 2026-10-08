@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0846-hand-of-straights) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0918-maximum-sum-circular-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1512-number-of-good-pairs) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0229-majority-element-ii) |
 | [0846-hand-of-straights](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0846-hand-of-straights) |
+| [0977-squares-of-a-sorted-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0977-squares-of-a-sorted-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2780-minimum-index-of-a-valid-split) |
