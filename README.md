@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3335-total-characters-in-string-after-transformations-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2352-equal-row-and-column-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3335-total-characters-in-string-after-transformations-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
