@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0846-hand-of-straights) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0918-maximum-sum-circular-subarray) |
+| [0966-vowel-spellchecker](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0966-vowel-spellchecker) |
 | [0977-squares-of-a-sorted-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0648-replace-words) |
 | [0781-rabbits-in-forest](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0846-hand-of-straights) |
+| [0966-vowel-spellchecker](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0966-vowel-spellchecker) |
 | [1207-unique-number-of-occurrences](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1512-number-of-good-pairs) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0412-fizz-buzz) |
 | [0648-replace-words](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0648-replace-words) |
+| [0966-vowel-spellchecker](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0966-vowel-spellchecker) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
