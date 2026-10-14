@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0242-valid-anagram) |
 | [0846-hand-of-straights](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0846-hand-of-straights) |
 | [0977-squares-of-a-sorted-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0977-squares-of-a-sorted-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0648-replace-words](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0648-replace-words) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0412-fizz-buzz) |
 | [0648-replace-words](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0648-replace-words) |
