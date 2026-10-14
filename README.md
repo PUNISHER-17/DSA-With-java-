@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0412-fizz-buzz) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0412-fizz-buzz) |
 | [0648-replace-words](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0648-replace-words) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0412-fizz-buzz) |
 | [2352-equal-row-and-column-pairs](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/2352-equal-row-and-column-pairs) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0918-maximum-sum-circular-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
