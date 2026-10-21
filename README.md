@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0648-replace-words](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0648-replace-words) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0412-fizz-buzz) |
 | [0648-replace-words](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0648-replace-words) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0387-first-unique-character-in-a-string) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1512-number-of-good-pairs) |
