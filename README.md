@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0412-fizz-buzz) |
 | [0781-rabbits-in-forest](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0781-rabbits-in-forest) |
+| [1137-n-th-tribonacci-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0918-maximum-sum-circular-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1137-n-th-tribonacci-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/3335-total-characters-in-string-after-transformations-i) |
 ## Queue
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
