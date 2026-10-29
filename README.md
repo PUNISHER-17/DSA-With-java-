@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0412-fizz-buzz) |
 | [0781-rabbits-in-forest](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/0781-rabbits-in-forest) |
 | [1137-n-th-tribonacci-number](https://github.com/PUNISHER-17/DSA-With-java-/tree/master/1137-n-th-tribonacci-number) |
